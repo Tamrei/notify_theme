@@ -1,0 +1,174 @@
+.bg-testimonials .photo {
+    width: 50px;
+    height: 50px;
+}
+
+.bg-testimonials .p1 {
+    background: url("../img/testimonials/pfotos/1.png");
+}
+
+.bg-testimonials .p1:hover {
+    background: linear-gradient(to right, rgba(46, 204, 113, 0.1), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/1.png");
+}
+
+.bg-testimonials .p2 {
+    background: url("../img/testimonials/pfotos/2.png");
+}
+
+.bg-testimonials .p2:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/2.png");
+}
+
+.bg-testimonials .p3 {
+    background: url("../img/testimonials/pfotos/3.png");
+}
+
+.bg-testimonials .p3:hover {
+    background: linear-gradient(to right, rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/3.png");
+}
+
+.bg-testimonials .p4 {
+    background: url("../img/testimonials/pfotos/4.png");
+}
+
+.bg-testimonials .p4:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/4.png");
+}
+
+.bg-testimonials .p5 {
+    background: url("../img/testimonials/pfotos/5.png");
+}
+
+.bg-testimonials .p5:hover {
+    background: linear-gradient(to right, rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/5.png");
+}
+
+.bg-testimonials .p6 {
+    background: url("../img/testimonials/pfotos/6.png");
+}
+
+.bg-testimonials .p6:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/6.png");
+}
+
+.bg-testimonials .p7 {
+    background: url("../img/testimonials/pfotos/7.png");
+}
+
+.bg-testimonials .p7:hover {
+    background: linear-gradient(to right, rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/7.png");
+}
+
+.bg-testimonials .p8 {
+    background: url("../img/testimonials/pfotos/8.png");
+}
+
+.bg-testimonials .p8:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/8.png");
+}
+
+.bg-testimonials .p9 {
+    background: url("../img/testimonials/pfotos/9.png");
+}
+
+.bg-testimonials .p9:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/9.png");
+}
+
+.bg-testimonials .p10 {
+    background: url("../img/testimonials/pfotos/10.png");
+}
+
+.bg-testimonials .p10:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/10.png");
+}
+
+.bg-testimonials .p11 {
+    background: url("../img/testimonials/pfotos/11.png");
+}
+
+.bg-testimonials .p11:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/11.png");
+}
+
+.bg-testimonials .p12 {
+    background: url("../img/testimonials/pfotos/12.png");
+}
+
+.bg-testimonials .p12:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/12.png");
+}
+
+.bg-testimonials .p13 {
+    background: url("../img/testimonials/pfotos/13.png");
+}
+
+.bg-testimonials .p13:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/13.png");
+}
+
+.bg-testimonials .p14 {
+    background: url("../img/testimonials/pfotos/14.png");
+}
+
+.bg-testimonials .p14:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/14.png");
+}
+
+.bg-testimonials .p15 {
+    background: url("../img/testimonials/pfotos/15.png");
+}
+
+.bg-testimonials .p15:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/15.png");
+}
+
+.bg-testimonials .p16 {
+    background: url("../img/testimonials/pfotos/16.png");
+}
+
+.bg-testimonials .p16:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/16.png");
+}
+
+.bg-testimonials .p17 {
+    background: url("../img/testimonials/pfotos/17.png");
+}
+
+.bg-testimonials .p17:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/17.png");
+}
+
+.bg-testimonials .p18 {
+    background: url("../img/testimonials/pfotos/18.png");
+}
+
+.bg-testimonials .p18:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/18.png");
+}
+
+.bg-testimonials .p19 {
+    background: url("../img/testimonials/pfotos/19.png");
+}
+
+.bg-testimonials .p19:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/19.png");
+}
+
+.bg-testimonials .p20 {
+    background: url("../img/testimonials/pfotos/20.png");
+}
+
+.bg-testimonials .p20:hover {
+    background: linear-gradient(rgba(46, 204, 113, 0.65), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/20.png");
+}
+
+.bg-testimonials .p21 {
+    background: url("../img/testimonials/pfotos/21.png");
+}
+
+.bg-testimonials .p21:hover {
+    background: linear-gradient(to left, rgba(46, 204, 113, 0.01), rgba(46, 204, 113, 0.65)), url("../img/testimonials/pfotos/21.png");
+}
+
+/*# sourceMappingURL=photos.css.map */

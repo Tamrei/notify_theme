@@ -45,15 +45,15 @@
     border-radius: 50%;
     width: 53px;
     height: 53px;
-    background: url("../img/container-icon.png");
+    background: url("../img/icons/container-icon.png");
 }
 
 .bg-header .icon-container:hover {
-    background: linear-gradient(#2ecc71, #2ecc71), url("../img/container-icon.png");
+    background: linear-gradient(#2ecc71, #2ecc71), url("../img/icons/container-icon.png");
 }
 
 .bg-header .icon-container:hover .apple-icon {
-    background: url("../img/apple-active.png");
+    background: url("../img/icons/apple-active.png");
 }
 
 .bg-header .icon-container:hover .android-icon {
@@ -78,7 +78,7 @@
     position: relative;
     width: 21px !important;
     height: 26px !important;
-    background: url("../img/apple-icon.png");
+    background: url("../img/icons/apple.png");
 }
 
 .bg-header .android-icon {
